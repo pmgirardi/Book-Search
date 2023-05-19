@@ -1,12 +1,17 @@
 # 21 MERN: Book-Search
 
  ## Table of Contents:  
-[1. Description](#Description)  
-[2. Acceptance Criteria](#Acceptance-Criteria)  
-[4. Usage](#Usage) 
-[5. Technologies Used](#Technologies-Used)
-[6. Links](#Links)   
-[7. Author](#Author)  
+[1. Description](#description)  
+
+[2. Acceptance Criteria](#acceptance-criteria)  
+
+[3. Usage](#usage) 
+
+[4. Technologies Used](#technologies-used)
+
+[5. Links](#links)   
+
+[6. Author](#author)  
 
 ## Description:
 
